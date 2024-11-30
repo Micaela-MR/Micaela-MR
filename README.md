@@ -1,9 +1,10 @@
 ## Hi there 👋
+
 <table width="100%" >
  <tr>
     <td width="60%">
 
-## Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -38,7 +39,7 @@
 </td>
 <td>
   
-## Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Stats </b>
 
    <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=Micaela-MR&show_icons=true&theme=radical&hide_border=true"><br>
