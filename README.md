@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+Welcome+to+my+Profile!&width=360&height=30">
+</p>
 
 <table width="100%" >
  <tr>
